@@ -6,7 +6,7 @@ import App from '../App';
 describe('App Component', () => {
   it('renders the header with agency title', () => {
     render(<App />);
-    const headerElement = screen.getByText('Sharlmon Creative Studio');
+    const headerElement = screen.getByText('Asensio Creative Studio');
     expect(headerElement).toBeInTheDocument();
   });
 
