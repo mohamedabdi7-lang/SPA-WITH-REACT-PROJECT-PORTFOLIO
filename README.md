@@ -7,8 +7,6 @@ A simple Single Page Application (SPA) portfolio built with **React**.
 * Home page
 * About section
 * Projects section
-* Skills section
-* Contact section
 * Responsive design
 * Simple and clean UI
 
@@ -23,8 +21,7 @@ A simple Single Page Application (SPA) portfolio built with **React**.
 ## Installation
 
 ```bash
-git clone <your-repository-url>
-cd <project-folder>
+git clone
 npm install
 npm run dev
 ```
