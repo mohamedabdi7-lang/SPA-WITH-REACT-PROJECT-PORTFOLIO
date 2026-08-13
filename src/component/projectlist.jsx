@@ -1,5 +1,5 @@
 import React from 'react';
-import ProjectCard from './ProjectCard';
+import ProjectCard from './projectcard';
 
 function ProjectList({ projects }) {
   if (projects.length === 0) {
