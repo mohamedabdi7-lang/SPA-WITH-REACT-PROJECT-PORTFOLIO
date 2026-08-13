@@ -1,8 +1,9 @@
 import React, { useState } from 'react';
-import Header from './components/Header';
-import SearchBar from './components/SearchBar';
-import ProjectForm from './components/ProjectForm';
-import ProjectList from './components/ProjectList';
+import Header from './component/Header';
+import SearchBar from './component/searchbar';
+import ProjectForm from './component/projectform';
+import ProjectList from './component/projectlist';
+import projectcard from  './component/projectcard';
 
 // initial project data
 const initialProjects = [

@@ -73,7 +73,7 @@ function ProjectForm({ onAddProject }) {
           value={description}
           onChange={(e) => setDescription(e.target.value)}
           placeholder="Description"
-          rows="3"
+          rows="4"
         ></textarea>
       </div>
       <button type="submit" className="submit-btn">
